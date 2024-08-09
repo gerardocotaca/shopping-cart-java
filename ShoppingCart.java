@@ -1,5 +1,3 @@
-//Gerardo Cota-Canez, gcotacan, CIS 340, A4
-
 import java.util.Scanner;
 
 public class ShoppingCart {
